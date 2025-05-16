@@ -57,28 +57,25 @@ cd meditrack
 ### Install backend dependencies
 
 cd server  
-
 npm install  
-
 npm run dev  
 
 
 ### Install frontend dependencies
 
 cd ../client  
-
 npm install  
-
 npm run dev  
 
 
 ### 📸 Screenshots
 
-(coming soon after implementation)
+🇬🇧(coming soon after implementation)  
+🇩🇪(werden nach der Implementierung hinzugefügt)
 
 ### 🛡️ License
 🇬🇧 EN
-This project is licensed under the MIT License.
+This project is licensed under the MIT License.  
 🇩🇪 DE
 Dieses Projekt steht unter der MIT-Lizenz.
 
