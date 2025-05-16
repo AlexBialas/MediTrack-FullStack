@@ -50,20 +50,27 @@ Sie wurde speziell für Kliniken und medizinisches Personal entwickelt, um Patie
 
 #### Clone the repository
 
-git clone https://github.com/AlexBialas/meditrack.git
+git clone https://github.com/AlexBialas/meditrack.git  
+
 cd meditrack
 
 ### Install backend dependencies
 
-cd server
-npm install
-npm run dev
+cd server  
+
+npm install  
+
+npm run dev  
+
 
 ### Install frontend dependencies
 
-cd ../client
-npm install
-npm run dev
+cd ../client  
+
+npm install  
+
+npm run dev  
+
 
 ### 📸 Screenshots
 
